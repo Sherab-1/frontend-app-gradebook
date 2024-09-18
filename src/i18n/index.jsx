@@ -26,7 +26,7 @@ const messages = {
   hi: hiMessages,
   'fr-ca': frCAMessages,
   ru: ruMessages,
-  'bo': boMessages,
+  bo: boMessages,
   uk: ukMessages,
 };
 
